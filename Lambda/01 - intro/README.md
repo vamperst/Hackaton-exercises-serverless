@@ -1,7 +1,7 @@
 # Aula 01 - Lambda
 
 
-1. No terminal do IDE criado no cloud9 execute o comando `cd ~/environment/aula-serverless-mob/01\ -\ Lambda/1\ -\ intro/` para entrar na pasta que fara este exercicio.
+1. No terminal do IDE criado no cloud9 execute o comando `cd ~/environment/Hackaton-exercises-serverless/Lambda/01\ -\ intro/` para entrar na pasta que fara este exercicio.
  2. Iniciar o repositório de trabalho `sls create --template "aws-python3"`
  ![img/slscreate.png](img/slscreate.png)
  3. Explore os arquivos criados(serverless.yml e handler.py) pelo comando anterior utilizando o menu de navegação lateral:
