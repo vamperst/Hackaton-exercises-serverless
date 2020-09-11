@@ -16,8 +16,9 @@
 1. Cria mais uma fila sqs com o mesmo nome da anterior com o sulfixo '_dest'
 2. Execute o comando no terminal `sls create --template "aws-python3"`
 3. Altere o arquivo 'serverless.yml' e coloque o seguinte conteudo, não esqueça de preencher as duas URLs das filas como descrito:
-![img/lambda-01.png](img/lambda-01.png)
 #### IGNORE A PARTE DE EVENTS COM SCHEDULE, NÃO FUNCIONA NO VOCAREUM
+![img/lambda-01.png](img/lambda-01.png)
+
 1. Altere o arquivo 'handler.py' com o seguinte conteudo
 ![img/lambda-02.png](img/lambda-02.png)
 7. rode o comando `sls deploy`
