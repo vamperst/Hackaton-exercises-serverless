@@ -1,6 +1,6 @@
 # Aula 03.1 - Sns/Lambda
 
-1. No terminal do IDE criado no cloud9 execute o comando `cd ~/environment/Hackaton-exercises-serverless/SNS/ ` para entrar na pasta que fara este exercicio.
+1. No terminal do IDE criado no cloud9 execute o comando `cd ~/environment/Hackaton-exercises-serverless/03-SNS/ ` para entrar na pasta que fara este exercicio.
 2. Utilize virtualenv para esse exercicio com os comandos:
    ``` shell
       python3 -m venv ~/venv 
