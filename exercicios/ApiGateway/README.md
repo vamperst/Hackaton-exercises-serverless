@@ -1,4 +1,4 @@
-1. Execute o comando `cd ~/environment/Hackaton-exercises-terraform/exercicios/ApiGateway/` para entrar na pasta do exercício.
+1. Execute o comando `cd ~/environment/Hackaton-exercises-serverless/exercicios/ApiGateway/` para entrar na pasta do exercício.
 2. Construa um requirements.txt com o conteudo:
     1. aws-xray-sdk
     2. boto3
