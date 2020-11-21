@@ -25,6 +25,6 @@
 11. Note a função que acabou de criar já esta no painel, para ver a layer clique em "camadas" no menu lateral da página
     ![img/funcoescriadas.png](img/funcoescriadas.png)
     ![img/camadascriadas.png](img/camadascriadas.png)
-12. Para remotamente a função utilize o comando `sls invoke -f hello` no terminal
+12. Para executar remotamente a função utilize o comando `sls invoke -f hello` no terminal
   ![img/slsinvoke.png](img/slsinvoke.png)
 10. destrua a função feita `sls remove`
